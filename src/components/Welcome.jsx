@@ -6,7 +6,7 @@ function Welcome() {
       {["dark"].map((variant) => (
         <Alert key={variant} variant={variant}>
           <h1>EpiBook</h1>
-          <p>La tua libreria a portata di Click</p>
+          <p>Your library just a click away!</p>
         </Alert>
       ))}
     </>
